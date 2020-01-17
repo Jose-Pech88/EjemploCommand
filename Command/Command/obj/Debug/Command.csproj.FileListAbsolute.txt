@@ -1,0 +1,12 @@
+C:\Users\jose.pech\source\repos\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\Command\Command\bin\Debug\Command.exe.config
+C:\Users\jose.pech\source\repos\Command\Command\bin\Debug\Command.exe
+C:\Users\jose.pech\source\repos\Command\Command\bin\Debug\Command.pdb
+C:\Users\jose.pech\source\repos\Command\Command\obj\Debug\Command.exe
+C:\Users\jose.pech\source\repos\Command\Command\obj\Debug\Command.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploCommand\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploCommand\Command\Command\obj\Debug\Command.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploCommand\Command\Command\obj\Debug\Command.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploCommand\Command\Command\bin\Debug\Command.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploCommand\Command\Command\bin\Debug\Command.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploCommand\Command\Command\bin\Debug\Command.pdb
